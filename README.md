@@ -2,7 +2,7 @@
 ##  About Me
 I'm a freshman majoring in cybersecurity. If I'm not sitting behind a computer, I'm standing in a choir and singing.
 ## ⚒️ Skills
-![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)
+![Windows](https://img.shields.io/badge/Windows-green)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
