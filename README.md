@@ -13,4 +13,4 @@ I'm a freshman majoring in cybersecurity. If I'm not sitting behind a computer, 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/efutchel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/emma-futchel-669966385)
 
-_"Your sample quote here!"_
+_“Always be a first version of yourself and not a second rate version of someone else.”_ — Judy Garland
